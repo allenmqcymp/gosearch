@@ -15,9 +15,9 @@ channels and goroutines to make the code simple and intuitive, yet performant.
 
 ## Todo
 
-- write a fuzzy checker based on some metric, such as Edit distance
-- write a go backend and a front-end (probably in React) and deploy to AWS/GCP (dockerized)
-- write more tests, unit and integration, and a fuzzer
-- godoc, Travis CI integration
+- [ ] write a fuzzy checker based on some metric, such as Edit distance
+- [ ] write a go backend and a front-end (probably in React) and deploy to AWS/GCP (dockerized)
+- [ ] write more tests, unit and integration, and a fuzzer
+- [ ] godoc, Travis CI integration
 
 
