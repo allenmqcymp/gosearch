@@ -1,0 +1,5 @@
+gosearch.code-workspace
+*.json
+*.vscode
+pages/*
+
